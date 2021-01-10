@@ -1,2 +1,2 @@
 Converter Waktu Jam,Menit,Detik Menggunakan Bahasa Pemrogramman php oop.
-Hanya Untuk Media Belajar Saja.
+Hanya Untuk Media Belajar Saja dan maaf apabila tidak berguna :).
